@@ -1,0 +1,5 @@
+{
+  "name": "Robo AI - Manual Name Extractor",
+  "description": "A web-based tool that allows a user to manually extract names from a scrolling video list by providing interactive frame-by-frame navigation and simple data capture features. The system focuses on manual control rather than automated OCR.",
+  "requestFramePermissions": []
+}
